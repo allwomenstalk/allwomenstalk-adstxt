@@ -29,4 +29,3 @@ function copyToClickBoard(text,el) {
 setTimeout(function() {
     parseText()
 }, 3000);
-
