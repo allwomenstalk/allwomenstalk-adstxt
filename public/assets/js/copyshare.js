@@ -6,7 +6,7 @@ function parseText() {
             addon = `<div class="m-2 opacity-50">
         <button onclick="copyToClickBoard('${el.innerHTML.slice(2).replace('\'', '’')}',this)" class="copy border rounded-lg p-2 text-xs">Copy</button>`
             if (navigator.share) {
-                addon += ` <button onclick="shareSheet('${el.innerHTML.slice(2)}')" class="share border rounded-lg p-2 text-xs">Share</button>`
+                addon += ` <button onclick="shareSheet('${el.innerHTML.slice(2)}')" class="share border rounded-lg p-2 text-xs">Sent</button>`
             }
             addon += `</div>`
             el.innerHTML += addon
