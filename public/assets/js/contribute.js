@@ -9,7 +9,7 @@ document.querySelectorAll('.post').forEach(el=>{
        if (el.querySelector('.feedback')) {
            a =  document.createElement("a");
            a.innerHTML= `
-<a class="p-2 text-xs" href="https://allwomenstalk.com/contribute/?title=${title}&description=${description}">Edit</a>`
+<a class="p-2 text-xs" href="https://allwomenstalk.com/contribute/?title=${title}&description=${description}&url=${window.location.href}">Edit</a>`
            el.querySelector('.feedback').before(a)
        }
 
