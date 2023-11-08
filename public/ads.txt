@@ -1,7 +1,20 @@
 google.com, pub-9285318390568770, DIRECT, f08c47fec0942fa0
 google.com, pub-2960246837266762, DIRECT, f08c47fec0942fa0
 media.net, 8CUKHA070, DIRECT
-gumgum.com, 13015, DIRECT, ffdef49475d318a9
+gumgum.com,13015,DIRECT,ffdef49475d318a9
+rubiconproject.com,23434,RESELLER,0bfd66d529a55807
+pubmatic.com,157897,RESELLER,5d62403b186f2ace
+appnexus.com,2758,RESELLER,f5ab79cb980f11d1
+contextweb.com,558355,RESELLER,89ff185a4c4e857c
+openx.com,537149485,RESELLER,6a698e2ec38604c6
+improvedigital.com,1884,RESELLER
+smartadserver.com,4005,RESELLER,060d053dcf45cbf3
+imds.tv,82151,RESELLER,ae6c32151e71f19d
+revcontent.com,110029,RESELLER
+google.com,pub-3848273848634341,RESELLER,f08c47fec0942fa0
+iqzone.com,IQ204,RESELLER
+pubmatic.com,161267,RESELLER,5d62403b186f2ace
+admanmedia.com,799,RESELLER
 
 #Next Millennium
 nextmillennium.io, 15679, DIRECT, 65bd090fa4a1e3d6
