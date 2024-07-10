@@ -305,6 +305,8 @@ Playstream.media, 2294, DIRECT
 google.com, pub-6070398767421094, RESELLER, f08c47fec0942fa0
 google.com, pub-2561470205289901, RESELLER, f08c47fec0942fa0
 aps.amazon.com, 5d8ed25e-57cc-441a-b62a-127b34faae4e, DIRECT
+google.com, pub-5022923378597143, DIRECT, f08c47fec0942fa0
+crads.in, CR-0048, DIRECT
 google.com, pub-6013343350303951, RESELLER, f08c47fec0942fa0
 
 
